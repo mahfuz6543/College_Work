@@ -1,0 +1,12 @@
+.login .card{
+    min-height: calc(100vh - 100px);
+    height: 100%;
+    box-shadow: none;
+}
+
+
+
+
+.heading {
+  margin-bottom: 20px !important;
+}
